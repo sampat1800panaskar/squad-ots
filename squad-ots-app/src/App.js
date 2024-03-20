@@ -1,12 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import MainLogic from './cal-logic';
+import Calculator from './calculator_Akash';
 
 function App() {
   return (
     <div className="App">
-      <h5>Changes from Git</h5>
-      <MainLogic />
+      <h5>First Basic Calculator</h5>
+      <Calculator />
     </div>
   );
 }
