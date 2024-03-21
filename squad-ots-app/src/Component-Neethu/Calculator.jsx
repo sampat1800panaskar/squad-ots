@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 //import logo from './logo.svg';
 // import './App.css';
-import '../styles.css';
+import './styles.css';
 
 const Calculate = () => {
-  const [result, setresult] = useState<string>("");
+  const [result, setresult] = useState("");
 
 
   const buttons = [
