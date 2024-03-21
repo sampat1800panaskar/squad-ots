@@ -1,4 +1,5 @@
 import { Component } from "react";
+import './Cal.css';
 import Result from "./Result";
 import Keypad from "./Keypad";
 
