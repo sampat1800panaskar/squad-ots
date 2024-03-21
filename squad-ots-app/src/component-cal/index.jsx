@@ -6,7 +6,7 @@ class MainCal extends Component{
     state = {
         result: ""
       }
-    
+     
       onClick = button => {
         if(button === "=") {
           this.calculate();
